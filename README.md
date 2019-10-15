@@ -1,4 +1,4 @@
-# ADHD-fMRI-Classification-With-ConvLSTM
+# Diagnosis ADHD with Convolutional-LSTM Model
  
 ## Motivation
 - Diagnosing mental disorders is a considerably complex task for behavioral health professionals
